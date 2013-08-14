@@ -1,6 +1,13 @@
-# jquery component for python.
+## jquery component for python.
 ---
-> **DON'T Star OR Fork it** The repository is only for test twitter package manager `bower` [https://github.com/bower/bower]
+> **【DON'T Star OR Fork it】** The repository is only for test twitter package manager `bower` [visit bower](https://github.com/bower/bower)
+        
 
-## install 
-`tower install jquery-py`
+## Install 
+```
+tower install jquery-py
+```
+
+## Authors
+[@董正选](http://weibo.com/dongzhengxuan)
+
